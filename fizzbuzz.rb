@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-  if int == 3 
+  if int == 3
     return "Fizz"
   elsif int == 5
     return "Buzz"
